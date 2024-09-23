@@ -258,14 +258,14 @@ Strategies for Overcoming These Challenges:
     Learn Git Fundamentals:
         Invest time in understanding basic Git commands and workflows, such as branching, merging, and pull requests. Many new users struggle because they don’t fully grasp how Git manages version history.
     
-    Use a Consistent Workflow:
-        Agree on a shared Git workflow within the team (e.g., Git Flow or GitHub Flow) to avoid confusion and ensure consistency across all contributors.
+Use a Consistent Workflow:
+    Agree on a shared Git workflow within the team (e.g., Git Flow or GitHub Flow) to avoid confusion and ensure consistency across all contributors.
 
-    Emphasize Communication:
-        Use tools like GitHub Issues, Project Boards, and comments in pull requests to improve communication and avoid overlap in tasks or conflicts in code contributions.
+Emphasize Communication:
+    Use tools like GitHub Issues, Project Boards, and comments in pull requests to improve communication and avoid overlap in tasks or conflicts in code contributions.
 
-    Establish Clear Guidelines:
-        Document guidelines for committing, branching, and code review. This ensures everyone on the team follows the same processes, reducing the chance of errors.
-    
-    Automate Testing and Integration:
-        Set up automated testing through Continuous Integration (CI) services to automatically test code when it’s pushed or when a pull request is created. This ensures that only working code gets merged into the main branch.
+Establish Clear Guidelines:
+    Document guidelines for committing, branching, and code review. This ensures everyone on the team follows the same processes, reducing the chance of errors.
+
+Automate Testing and Integration:
+    Set up automated testing through Continuous Integration (CI) services to automatically test code when it’s pushed or when a pull request is created. This ensures that only working code gets merged into the main branch.
