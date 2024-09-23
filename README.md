@@ -2,25 +2,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16100134&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-Fundamental Concepts of Version Control:
-        Tracking Changes: Keeps a record of all changes made to files over time.
-        Collaboration: Multiple users can work on the same project simultaneously without overwriting each other's work.
-        Branching: Allows developers to create independent branches to test or build new features without affecting the main codebase.
-        Merging: Combines different branches and changes back into the main project.
-        Reverting: Easily roll back to previous versions if bugs or issues arise.
-    
-    Why GitHub is a Popular tool for managing versions of a code:
-        Cloud-Based: Easily accessible from anywhere with an internet connection.
-        Collaboration Tools: GitHub supports teams through pull requests, issues, and discussions.
-        Integration: Seamlessly integrates with popular development tools like CI/CD pipelines.
-        Community: GitHub hosts open-source projects, making it a hub for collaboration and learning.
+Why GitHub is a Popular tool for managing versions of a code:
+    Cloud-Based: Easily accessible from anywhere with an internet connection.
+    Collaboration Tools: GitHub supports teams through pull requests, issues, and discussions.
+    Integration: Seamlessly integrates with popular development tools like CI/CD pipelines.
+    Community: GitHub hosts open-source projects, making it a hub for collaboration and learning.
 
-    How Version Control Helps in maintaining Project Integrity:
-        Prevents Data Loss: Every version is stored, so nothing is lost.
-        Accountability: Each change is associated with a user, promoting transparency.
-        Conflict Resolution: Git helps manage and resolve coding conflicts when merging different versions.
-        Code Quality: Encourages frequent updates, testing, and peer review through structured workflows.
-
+How Version Control Helps in maintaining Project Integrity:
+    Prevents Data Loss: Every version is stored, so nothing is lost.
+    Accountability: Each change is associated with a user, promoting transparency.
+    Conflict Resolution: Git helps manage and resolve coding conflicts when merging different versions.
+    Code Quality: Encourages frequent updates, testing, and peer review through structured workflows.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Process of Setting Up a New Repository on GitHub and the key steps involved:
