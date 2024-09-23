@@ -190,16 +190,16 @@ Using Project Boards to Improve Project Organization:
 
 Tracking Feature Development:
 
-    Example: A team is working on a new feature, like "Add dark mode to the UI." The feature is broken down into smaller tasks using issues (e.g., "Update CSS," "Add toggle switch," "Test responsiveness"). Each issue is represented as a card on the project board, and developers can move these cards through stages (To Do → In Progress → Review → Done).
-        This provides clarity and visibility on the feature's development status.
-        Managing Open Source Contributions:
+Example: A team is working on a new feature, like "Add dark mode to the UI." The feature is broken down into smaller tasks using issues (e.g., "Update CSS," "Add toggle switch," "Test responsiveness"). Each issue is represented as a card on the project board, and developers can move these cards through stages (To Do → In Progress → Review → Done).
+    This provides clarity and visibility on the feature's development status.
+    Managing Open Source Contributions:
 
-    Example: In open-source projects, issues can be marked with a tag like good first issue, making it easier for new contributors to identify beginner-friendly tasks. When contributors submit pull requests to fix these issues, maintainers can track the progress and close the issue once the pull request is merged.
-        This encourages contributions by making tasks more approachable.
-        Sprinting and Milestones:
+Example: In open-source projects, issues can be marked with a tag like good first issue, making it easier for new contributors to identify beginner-friendly tasks. When contributors submit pull requests to fix these issues, maintainers can track the progress and close the issue once the pull request is merged.
+    This encourages contributions by making tasks more approachable.
+    Sprinting and Milestones:
 
-    Example: A project team sets up a milestone called "Version 2.0 Release" and assigns specific issues related to this milestone. A corresponding project board tracks all issues needed for this release, showing the team's progress in real-time.
-        This helps with planning and accountability, ensuring that the project stays on track for release
+Example: A project team sets up a milestone called "Version 2.0 Release" and assigns specific issues related to this milestone. A corresponding project board tracks all issues needed for this release, showing the team's progress in real-time.
+    This helps with planning and accountability, ensuring that the project stays on track for release
 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
