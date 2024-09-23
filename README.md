@@ -26,12 +26,12 @@ Process of Setting Up a New Repository on GitHub and the key steps involved:
         .gitignore: Optionally, add a .gitignore file to exclude specific files or directories from version control.
         Repository: Click "Create repository" to finalize the setup.
 
-    Important Decisions to Make during setting up a new repository on github:
-        Repository Name: Choose a clear name that reflects the project's purpose.
-        Visibility: Determine if you want the repository to be public or private.
-        README: Decide if you want to add a README for easier understanding of the project.
-        License: Choose a license that matches how you want others to use or contribute to your code.
-        .gitignore: Decide which files should be excluded from version control (e.g., environment configs).
+Important Decisions to Make during setting up a new repository on github:
+    Repository Name: Choose a clear name that reflects the project's purpose.
+    Visibility: Determine if you want the repository to be public or private.
+    README: Decide if you want to add a README for easier understanding of the project.
+    License: Choose a license that matches how you want others to use or contribute to your code.
+    .gitignore: Decide which files should be excluded from version control (e.g., environment configs).
 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
